@@ -22,5 +22,3 @@ o	1,761 Assistant Engineer
 Based on the results, there are in total 90,398 roles that are potentially at risk of having their workers retiring at any moment. Because we can’t predict how when this will occur, we should assume that they all will need to be filled in the near future, potentially, at any moment.
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 No, based on our finding we only have 1,940 employees who are eligible to participate in the mentorship program, well below the 90,398 roles that are having employee turnover occur at any moment.
-
-![image](https://user-images.githubusercontent.com/91284661/141700561-89ed59fe-89fe-4622-b795-f4fe0ed68566.png)
